@@ -54,8 +54,9 @@ public class HomeFragment extends Fragment implements UserAdapter.SelectedUser {
         modelRcyclers.add(new ModelRcycler(R.drawable.rasm1,"Tеоретиечская часть                                             ","",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.rasm2,"Практическая часть                                              ","",""));
         modelRcyclers.add(new ModelRcycler(R.drawable.rasm3,"Приложение                                                        ","","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/ilova.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.test_icon,"Тесты                                                          ","","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/test.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.images,"Глоссарий                                                      ","","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/glossary.doc"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm4,"Самостоятельная работа                                                        ","",""));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm5,"Тесты                                                          ","","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/test.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm6,"Глоссарий                                                      ","","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/glossary.doc"));
 
     }
 

@@ -62,7 +62,7 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
         constraintLayout.setBackgroundColor(getResources().getColor(R.color.mycolor));
 
         switch (getChemgeItemPosition){
-            case 1: {
+            case 0: {
 
                 textViewSelectedChapterName.setText("Tеоретиечская часть");
 
@@ -82,7 +82,7 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
                 modelRcyclers.add(new ModelRcycler("Тема 17. Закон больших чисел и его практическое значение. Понятие о центральной предельной теореме","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/tema17.docx"));
 
             }break;
-            case 2: {
+            case 1: {
 
                 textViewSelectedChapterName.setText("Практическая часть");
 
@@ -94,6 +94,19 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
                 modelRcyclers.add(new ModelRcycler("6. Плотность распределения вероятностей и числовые характеристики непрерывных случайных величин","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/amaliy6.docx"));
                 modelRcyclers.add(new ModelRcycler("7. Основные законы распределения непрерывных случайных величин","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/amaliy7.docx"));
                 modelRcyclers.add(new ModelRcycler("8. Закон больших чисел","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/amaliy8.docx"));
+
+            }break;
+            case 3: {
+
+                textViewSelectedChapterName.setText("Самостоятельная работа");
+
+                modelRcyclers.add(new ModelRcycler("1. Самостоятельная работа","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/mus1.docx"));
+                modelRcyclers.add(new ModelRcycler("2. Самостоятельная работа","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/mus2.docx"));
+                modelRcyclers.add(new ModelRcycler("3. Самостоятельная работа","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/mus3.docx"));
+                modelRcyclers.add(new ModelRcycler("4. Самостоятельная работа","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/mus4.docx"));
+                modelRcyclers.add(new ModelRcycler("5. Самостоятельная работа","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/mus5.docx"));
+                modelRcyclers.add(new ModelRcycler("6. Самостоятельная работа","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/mus6.docx"));
+                modelRcyclers.add(new ModelRcycler("7. Самостоятельная работа","https://github.com/asadbekakmedov2001/Ehtimol_dastur/raw/main/app/src/main/assets/mus7.docx"));
 
             }break;
         }
