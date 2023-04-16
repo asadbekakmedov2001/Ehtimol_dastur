@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Теория вероятностей и математическая статистика</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">Савенко Oксана Викторовна</string>
+    <string name="nav_header_subtitle">Термезского государственного университета</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Основная часть</string>
+    <string name="menu_gallery">Video darslar</string>
+    <string name="menu_slideshow">Об авторе</string>
+    <string name="search_view">Search view</string>
+    <string name="xumoyiddin_turayev">Савенко Oксана Викторовна</string>
+    <string name="xumoyiddinturayev">https://t.me/AkhMeDoV_AsAdBeK</string>
+    <string name="termiz_davlat_universiteti">Termiz Davlat Universiteti</string>
+    <string name="muallif_name">Савенко Oксана Викторовна</string>
+    <string name="muallif_haqida">Cтарший преподаватель кафедры математического анализа Термезского государственного университета. Талантливый педагог и методист. Читает лекции и ведет практические занятия по основным предметам кафедры: дифференциальным уравнениям, теории вероятностей и математической статистике, теории функции комплексного переменного, функциональному анализу и ряду специальных курсов.</string>
+</resources>
